@@ -3,3 +3,6 @@ Tools Involved in devops are
 Docker
 kubernates
 puppets
+Agile
+Jenkins
+Gaddle
